@@ -1,0 +1,5 @@
+pen,30
+pencil,50
+eraser,15
+scale,10
+whitener,20
